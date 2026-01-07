@@ -8,7 +8,7 @@ It can answer queries related to:
 - Fallback for unknown questions
 
 The chatbot is deployed through IBM Cloud Web Chat and can be embedded in any webpage.
-
+link : file:///Users/chitraameta/Desktop/College%20Helpdesk%20Bot/index.html
 ---
 
 ## 🚀 Features
